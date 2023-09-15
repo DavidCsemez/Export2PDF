@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f229d6c0-ff7c-4c59-a28d-1f8c51bcc0fc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ARIAL.TTF" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/JavaPdfHelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaPdfHelloWorld.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +23,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "DavidCsemez"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="6e194ec7-b73a-4f83-b232-19ff9c29ff59" />
+        <option name="url" value="https://github.com/DavidCsemez/Export2PDF.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectId" id="2VQfG4KffkpiEv5SZbyo0Odo2AY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -44,6 +58,25 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\cseme\IdeaProjects\Export2PDF" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="JavaPdfHelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaPdfHelloWorld" />
+      <module name="Export2PDF" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JavaPdfHelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -53,6 +86,28 @@
       <option name="presentableId" value="Default" />
       <updated>1694773127975</updated>
     </task>
+    <task id="LOCAL-00001" summary="Znovu odoslane subory na inicializaciu programu">
+      <option name="closed" value="true" />
+      <created>1694775279873</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694775279873</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Uprava maven-u, vynechanie externej kniznice">
+      <option name="closed" value="true" />
+      <created>1694776080615</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694776080615</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Znovu odoslane subory na inicializaciu programu" />
+    <MESSAGE value="Uprava maven-u, vynechanie externej kniznice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uprava maven-u, vynechanie externej kniznice" />
   </component>
 </project>
